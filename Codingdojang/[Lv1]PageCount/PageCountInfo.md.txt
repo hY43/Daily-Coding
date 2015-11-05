@@ -1,0 +1,4 @@
+본 게시물은 코딩도장의 문제 중 LV1. 게시판 페이징에 대한 소스 코드 및 그에 대한 설명입니다.
+문제 원본 링크: http://codingdojang.com/scode/406
+코드 작성: http://colorscripter.com/
+사용 언어: Java
