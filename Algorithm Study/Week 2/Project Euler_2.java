@@ -1,4 +1,9 @@
-﻿public class convert_StoI {
+﻿/**********************************************
+Project Euler 2)
+url: https://projecteuler.net/problem=2
+**********************************************/
+
+public class convert_StoI {
 	public static void main(String[] args)
 	{
 		int sum = 0;
