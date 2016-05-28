@@ -4,4 +4,5 @@ For example regaring something to learn, programming language, something concern
 
 - Algorithm Study
 : This category is for group study regarding algorithm. 
-1. Project Euler (www.projecteuler.net) (2016.02.28 ~ present)
+1. Data Structure and Algorithms made for Java
+   Reference: 다양한 예제로 학습하는 데이터 구조와 알고리즘 for Java
