@@ -44,8 +44,7 @@ public class HelloWorld extends HttpServlet{
 	}
 }
 ```
-
 ## 4. Servlet 사용 순서 ##
-1) HttpServlet Class 상속
-2) doGet(req, resp) 혹은 doPost(req, resp) Method Override
-3) WAS에 Servlet 등록(Annotation)
+- HttpServlet Class 상속
+- doGet(req, resp) 혹은 doPost(req, resp) Method Override
+- WAS에 Servlet 등록(Annotation)
