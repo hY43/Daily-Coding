@@ -1,8 +1,8 @@
-## JQuery ##
-1. JQuery 란?
+# JQuery #
+## 1. JQuery 란? ##
 Java Script의 라이브러리의 일종
 
-2. 사용 방법
+## 2. 사용 방법 ##
 ```
 <script type="text/javascript" src = "http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.0.0.min.js"></script>
 <script type="text/javascript">
