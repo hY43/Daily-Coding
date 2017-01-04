@@ -10,3 +10,6 @@
 Note: 이 글은 JUnit 3.8x 버전을 기반으로 작성되었습니다.
 
 ###1. Introduction
+
+이전 글(see Test Infected: Programmers Love Writing Tests, Java Report, July 1998, Volume 3, Number 7)에서 반복적인 테스트를 하기 위한 간단한 프레임워크 사용법에 대한 내용을 작성했었다.
+그리고 이번 글에서는 그 내부로 들어가 프레임워크 자체가 어떻게 구성되어 있는지 확인해보려 한다.
