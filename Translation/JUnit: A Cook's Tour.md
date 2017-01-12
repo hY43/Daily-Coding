@@ -16,8 +16,7 @@ Note: 이 글은 JUnit 3.8x 버전을 기반으로 작성되었습니다.
 이전 글(see Test Infected: Programmers Love Writing Tests, Java Report, July 1998, Volume 3, Number 7)에서 반복적인 테스트를 하기 위한 간단한 프레임워크 사용법에 대한 내용을 작성했었다.
 그리고 이번 글에서는 그 내부로 들어가 프레임워크 자체가 어떻게 구성되어 있는지 확인해보려 한다.
 
+우리는 JUnit Framework를 깊게 연구하고 어떻게 이를 구성했는지 되집어봤습니다. 그리고 우리는 다양한 레벨의 교훈을 얻을 수 있었습니다.
+이 글에서 우리는 그 교훈들 모두를 한번에 보여주려고 하겠지만 이는 아주 어려운 일이기 때문에 최소한 소프트웨어의 작은 부분을 디자인하고 구성하는 것을 보여주는 방식으로 진행할 것이다.
 
-We carefully studied the JUnit framework and reflected on how we constructed it. We found lessons at many different levels. In this article we will try communicate them all at once, a hopeless task, but at least we will do it in the context of showing you the design and construction of a piece of software with proven value.
-
-
-우리는 이 프레임워크의 목표에 대해서 논의해봤어. 그리고 그 목표는 프레임워크 자체를 설명하는 동안 많은 작은 부분들에서 드러날거야.
+우리는 Framework의 목표에 대해 논의를 해봤고 그 목표는 Framework 자체를 설명하는 동안 많은 작은 부분들에서 보여줄 수 있을 것이다.
